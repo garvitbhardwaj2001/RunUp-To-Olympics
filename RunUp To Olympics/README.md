@@ -27,7 +27,7 @@ asianGames.csv:  Contains the medal tally for each participating nation in Asian
 * K-Means Clustering
 * Association Rule Mining
 
-## What there is into this repository?
+## Contents
 * Datasets we used.
 * code to clean, transform and prepare for the analysis
 * Some pictures and json files with charts/statistics from the data.
