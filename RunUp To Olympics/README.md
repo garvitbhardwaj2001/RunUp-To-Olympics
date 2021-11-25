@@ -45,9 +45,9 @@ asianGames.csv:  Contains the medal tally for each participating nation in Asian
 <br />plot/Importance-Of-GDP-per-capita.jpg: plot for comparative study of medal per million people vs gdp-per-capita for 38 participating nations in Asian Games 2018
 
 * genderRatioYearWise.py: File to generate females to males ratio for Olympic games from 1896 to 2016 and generate a plot and perform Regression
-<br /><br />Input: data/athlete_events.csv
+<br />Input: data/athlete_events.csv
 <br />Output:
-<br /><br />plots/genderRatio.jpg: scatter plot of gender ratio(females/males) plotted for olympics vs year
+<br />plots/genderRatio.jpg: scatter plot of gender ratio(females/males) plotted for olympics vs year
 <br />plots/regressionOnGenderRatio: previous scatter plot fitted with a polynomial based regression model of degree-4
 
 * clustering_ht_wt.py: File to generate the clusters based on height and weight of participants in Rio Olympics 2016
