@@ -1,0 +1,32 @@
+{
+  "3": {
+    "Basketball": 15.0,
+    "Weightlifting": 12.549019607843137,
+    "Wrestling": 10.693641618497109
+  },
+  "1": {
+    "Synchronized Swimming": 72.03389830508475,
+    "Rhythmic Gymnastics": 52.083333333333336,
+    "Trampolining": 43.75
+  },
+  "2": {
+    "Water Polo": 45.736434108527135,
+    "Basketball": 41.42857142857143,
+    "Volleyball": 38.869257950530034
+  },
+  "4": {
+    "Rhythmic Gymnastics": 46.875,
+    "Gymnastics": 45.74095682613769,
+    "Diving": 31.46067415730337
+  },
+  "0": {
+    "Volleyball": 38.16254416961131,
+    "Fencing": 35.072463768115945,
+    "Canoeing": 34.09610983981693
+  },
+  "5": {
+    "Taekwondo": 37.096774193548384,
+    "Modern Pentathlon": 36.111111111111114,
+    "Triathlon": 35.77981651376147
+  }
+}
