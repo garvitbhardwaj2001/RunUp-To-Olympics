@@ -1,8 +1,11 @@
 # Olympics: Data Mining Project
 Perform exploratory data mining and analysis on data available from Olympics and Asian games and study trends, patterns and factors that justify the medal tally of participating nations.
 
+## How to get the datasets
+Unzip the data.zip file provided.
+
 ## DATA (from Kaggle, World Bank, Wikipedia and other websites):
-Athlete_events.csv: Contains data of every participant that participated in Olympics from 1896 to 2016. Unzip the data.zip file provided.
+Athlete_events.csv: Contains data of every participant that participated in Olympics from 1896 to 2016. 
 * https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
 Population.csv:  Contains year-wise population data for 200+ countries from 1960 to 2020.
